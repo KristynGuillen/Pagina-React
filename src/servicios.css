@@ -1,0 +1,25 @@
+.icon-service {
+
+    --box-size: 100px;
+      width: var(--box-size);
+      height: var(--box-size);
+      padding: 10px;
+      background-color:#DA0037;
+}
+
+article:hover {
+     
+  transform:scale(0.8);
+  -ms-transform:scale(0.8); 
+  -moz-transform:scale(0.8);  
+  -webkit-transform:scale(0.8); 
+  -o-transform:scale(0.8); 
+  }
+
+.box {
+
+  background-color:#000;
+}
+
+
+

@@ -1,0 +1,51 @@
+.navbar-nav{
+
+  margin-left: 550px;
+  
+ 
+}
+
+.navbar-light .navbar-brand{
+  
+  color: white;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-left: 0;
+  
+  
+}
+
+
+
+
+.navbar {
+
+  background-color: #EDEDED;
+  
+}
+
+.nav-link {
+ 
+  color:white;
+
+}
+
+
+
+i {
+
+  padding: 10px;
+}
+
+i:hover{
+  color:#2222;
+  cursor: pointer;
+}
+
+
+
+
+
+ 

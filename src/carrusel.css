@@ -1,0 +1,54 @@
+
+.carousel-item{
+   min-height: 300px;
+   height: 100vh;
+   background: no-repeat center center scroll;
+   -webkit-background-size: cover ;
+   background-size: cover;
+   
+ }
+ 
+
+
+.carousel-caption{
+  bottom: 230px;
+
+}
+
+.carousel-caption h5{
+
+  font-size: 45px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 25px;
+  color:black;
+}
+
+.carousel-caption p{
+
+  width: 75%;
+  margin:auto;
+  font-size: 18px;
+  line-height: 1.9;
+  color:black;
+  
+  
+}
+
+ img {
+
+  opacity: 0.8;
+
+}
+
+.btn {
+
+  background-color: #DA0037;
+  border:none;
+}
+
+.btn:hover{
+
+  background-color: #444444;
+}
+
