@@ -1,9 +1,9 @@
 import './carrusel.css';
 import "bootstrap/dist/css/bootstrap.min.css"
 import {Carousel,Button} from "react-bootstrap";
-import imagen from './imagen1.jpg';
-import imagen2 from './imagen2.png';
-import imagen3 from './imagen3.jpg';
+import imagen from './img/imagen1.jpg';
+import imagen2 from './img/imagen2.png';
+import imagen3 from './img/imagen3.jpg';
 
 
 function Carrusel() {
@@ -31,8 +31,8 @@ function Carrusel() {
         />
     
         <Carousel.Caption>
-          <h3 >Variedad de Servicios</h3>
-          <p className="text-white">Te ofrecemos distintos servicios con la finalidad de crear un sitio web completo y que cumpla con todo lo necesario para su optimización.</p>
+          <h3 className="text-dark" >Variedad de Servicios</h3>
+          <p>Te ofrecemos distintos servicios con la finalidad de crear un sitio web completo y que cumpla con todo lo necesario para su optimización.</p>
           <Button className="btn" variant = "dark" href="#services"> Nuestros Servicios </Button>
         </Carousel.Caption>
       </Carousel.Item>

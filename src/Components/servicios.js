@@ -1,7 +1,7 @@
 import './servicios.css';
-import icon1 from './web.png';
-import icon2 from './diseno-grafico.png';
-import icon3 from './publicidad-digital.png';
+import icon1 from './img/web.png';
+import icon2 from './img/diseno-grafico.png';
+import icon3 from './img/publicidad-digital.png';
 
 function Servicios() {
 

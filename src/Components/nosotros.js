@@ -1,5 +1,5 @@
 import './nosotros.css';
-import imagen from './nosotros.jpg';
+import imagen from './img/nosotros.jpg';
 
 function Nosotros() {
 

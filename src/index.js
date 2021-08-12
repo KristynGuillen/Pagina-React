@@ -1,13 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Navegador from './navegador';
-import Carrusel from './carrusel';
-import Servicios from './servicios';
-import Nosotros from './nosotros';
-import Contacto from './contacto';
-import Footer from './footer';
-
-
+import Navegador from './Components/navegador';
+import Carrusel from './Components/carrusel';
+import Servicios from './Components/servicios';
+import Nosotros from './Components/nosotros';
+import Contacto from './Components/contacto';
+import Footer from './Components/footer';
 
 
 
@@ -19,6 +17,7 @@ ReactDOM.render(
     <Nosotros />
     <Contacto />
     <Footer />
+    
     
 
   </React.StrictMode>,

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './navegador.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Container,Navbar,Nav} from 'react-bootstrap';
-import Billetera from './modal';
+import Billetera from '../modal';
 
 
 
